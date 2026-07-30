@@ -5,3 +5,5 @@ caribesolprod.azurewebsites.net
 https://caribesolprod.azurewebsites.net
 wmk77.com
 thegentlemen.cc
+https://payment-desa.movistar.co
+payment-desa.movistar.co
